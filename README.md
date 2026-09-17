@@ -6,5 +6,5 @@
 -->
 
 <p align="center">
-  <img src="assets/profile.svg" alt="aryan.jain@ema.co — Product Manager" width="100%">
+  <img src="assets/profile.svg" alt="aryan@ema — Product Manager" width="100%">
 </p>
